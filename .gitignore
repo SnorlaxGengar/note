@@ -1,3 +1,4 @@
 sensitive-words
 *.exe
 todo.md
+.obsidian
